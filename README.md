@@ -57,28 +57,23 @@ weaknesses, and customer perceptions.
 
 ------------------------------------------------------------------------------------------------
 
-LIBRARIES USED AND WHY:
+**LIBRARIES USED AND WHY:**
 
-Reddit API:
-
-Reason: To extract data from Reddit, including posts, comments, and user interactions.
 Apache Airflow:
 
-Reason: To orchestrate and schedule the ETL workflow, ensuring tasks are executed in the 
-correct order and at the right time.
-Celery:
+Reason: To orchestrate and schedule the ETL workflow, ensuring tasks are executed in the correct order and at the right time.
 
-Reason: For distributed task execution and handling asynchronous tasks, providing scalability
-and reliability to the pipeline.
-PostgreSQL:
+Pandas:
 
-Reason: Used as the metadata database for Apache Airflow, storing information about the DAGs and 
-their execution states.
+Reason: For data manipulation and analysis, providing powerful tools to clean, transform, and analyze the data extracted from Reddit.
 
-Docker:
+PRAW (Python Reddit API Wrapper):
 
-Reason: To containerize the applications and dependencies, ensuring consistency across different 
-environments and simplifying deployment.
+Reason: To extract data from Reddit, including posts, comments, and user interactions, simplifying the process of interacting with the Reddit API.
+
+NumPy:
+
+Reason: To perform numerical operations and handle large multi-dimensional arrays, supporting efficient data processing and transformation.
 
 ------------------------------------------------------------------------------------------------
 
