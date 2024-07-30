@@ -4,6 +4,7 @@ Reddit Data Engineering Pipeline
 ------------------------------------------------------------------------------------------------
 
 **ABSTRACT OF PROJECT:**
+
 This project aims to provide a comprehensive data pipeline solution that extracts, transforms,
 and loads (ETL) Reddit data into an Amazon Redshift data warehouse. Leveraging a combination of
 tools and services such as Apache Airflow, Celery, PostgreSQL, Amazon S3, AWS Glue, Amazon Athena, 
