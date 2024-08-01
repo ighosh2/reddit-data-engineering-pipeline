@@ -1,0 +1,25 @@
+id,title,score,num_comments,author,created_utc,url,over_18,edited,spoiler,stickied
+1e3116g,What is it like to be a Data Engineer Freelancer?,57,33,Fragrant_Grape_4934,2024-07-14 12:23:56,https://www.reddit.com/r/dataengineering/comments/1e3116g/what_is_it_like_to_be_a_data_engineer_freelancer/,False,False,False,False
+1e3d33i,What does great data Engineering mentorship look like?,40,7,pipeline_wizard,2024-07-14 21:16:53,https://www.reddit.com/r/dataengineering/comments/1e3d33i/what_does_great_data_engineering_mentorship_look/,False,False,False,False
+1e3n522,Economical data warehouse based on Parquet in GCP Storage,17,9,GreymanTheGrey,2024-07-15 05:40:00,https://www.reddit.com/r/dataengineering/comments/1e3n522/economical_data_warehouse_based_on_parquet_in_gcp/,False,False,False,False
+1e3kaai,"I have an MS in Data Science. Should I get a second MS in Software Engineering, PhD, or Some Certs (it’s free from employer)?",16,35,ParticularBattle2713,2024-07-15 02:53:24,https://www.reddit.com/r/dataengineering/comments/1e3kaai/i_have_an_ms_in_data_science_should_i_get_a/,False,False,False,False
+1e3j0k8,Crash course in Kimball Data Modeling ,11,1,nydasco,2024-07-15 01:48:26,https://www.reddit.com/r/dataengineering/comments/1e3j0k8/crash_course_in_kimball_data_modeling/,False,False,False,False
+1e2yr34,Monoliths vs microservices in data?,14,3,engineer_of-sorts,2024-07-14 10:06:54,https://i.redd.it/iaxu3rbpkgcd1.jpeg,False,False,False,False
+1e31jyl,Demand for datamesh,9,23,itsawesomedude,2024-07-14 12:51:39,https://www.reddit.com/r/dataengineering/comments/1e31jyl/demand_for_datamesh/,False,False,False,False
+1e3i04w,Alternative to dbt metrics,8,4,Toby1knoby20,2024-07-15 00:57:15,https://www.reddit.com/r/dataengineering/comments/1e3i04w/alternative_to_dbt_metrics/,False,False,False,False
+1e3857w,Dbt backfilling/replaying snapshots. Anyone have a good approach for this?,9,4,minormisgnomer,2024-07-14 17:38:44,https://www.reddit.com/r/dataengineering/comments/1e3857w/dbt_backfillingreplaying_snapshots_anyone_have_a/,False,False,False,False
+1e371zm,Doubt on DBT Semantic Layer usage ,8,5,Tinjar12,2024-07-14 16:53:40,https://www.reddit.com/r/dataengineering/comments/1e371zm/doubt_on_dbt_semantic_layer_usage/,False,False,False,False
+1e3bkpk,Bridgetable or Array to model M:M relation database,6,4,Material-Mess-9886,2024-07-14 20:06:56,https://www.reddit.com/r/dataengineering/comments/1e3bkpk/bridgetable_or_array_to_model_mm_relation_database/,False,False,False,False
+1e38422,Changing mindset for big data,7,4,Cicada4409,2024-07-14 17:37:19,https://www.reddit.com/r/dataengineering/comments/1e38422/changing_mindset_for_big_data/,False,False,False,False
+1e3mw63,Building a real-time personalization engine,6,0,ephemeral404,2024-07-15 05:24:48,https://i.redd.it/m1fphhfabmcd1.png,False,False,False,False
+1e32u6v,Whata is Data Pipeline Optimization,5,5,Effective-Tie-3149,2024-07-14 13:53:14,https://www.reddit.com/r/dataengineering/comments/1e32u6v/whata_is_data_pipeline_optimization/,False,False,False,False
+1e3aega,Currently onboarding a third party to work on our data migration - any security protocol / best practices when doing this?,5,3,Ok_Huckleberry6185,2024-07-14 19:14:00,https://www.reddit.com/r/dataengineering/comments/1e3aega/currently_onboarding_a_third_party_to_work_on_our/,False,False,False,False
+1e3nt51,Would you use a Data Engineer focused CoPilot?,5,6,Bright_Bunch_7208,2024-07-15 06:22:43,https://www.reddit.com/r/dataengineering/comments/1e3nt51/would_you_use_a_data_engineer_focused_copilot/,False,False,False,False
+1e3bywj,Suggestion on Dimensional modeling Aggregations,4,0,CaptainMalikk,2024-07-14 20:29:09,https://www.reddit.com/r/dataengineering/comments/1e3bywj/suggestion_on_dimensional_modeling_aggregations/,False,False,False,False
+1e3a95c,VSCode Navigator for Apache Pinot,5,0,hkdelay,2024-07-14 19:07:24,https://marketplace.visualstudio.com/items?itemName=1Schema.pinotdb,False,False,False,False
+1e3q21m,Designing Platform Logging Pipeline,3,2,DifficultyNo3182,2024-07-15 08:55:22,https://www.reddit.com/r/dataengineering/comments/1e3q21m/designing_platform_logging_pipeline/,False,False,False,False
+1e36i8q,Former Data Analyst / MI Manager made Data Engineering Manager.,4,11,AromaticAd6672,2024-07-14 16:30:37,https://www.reddit.com/r/dataengineering/comments/1e36i8q/former_data_analyst_mi_manager_made_data/,False,False,False,False
+1e31kr8,"Have Meta, Anthropic or OpenAI released their data platform details?",2,1,20231027,2024-07-14 12:52:50,https://www.reddit.com/r/dataengineering/comments/1e31kr8/have_meta_anthropic_or_openai_released_their_data/,False,False,False,False
+1e3qc87,Glue Visual Studio Help,2,0,Free-Way-5831,2024-07-15 09:14:19,https://www.reddit.com/r/dataengineering/comments/1e3qc87/glue_visual_studio_help/,False,False,False,False
+1e34v6k,STTM in Excel,2,2,Agitated_Ad_1108,2024-07-14 15:21:34,https://www.reddit.com/r/dataengineering/comments/1e34v6k/sttm_in_excel/,False,False,False,False
+1e3exzs,Data Project,0,3,LostVisionary,2024-07-14 22:34:35,https://www.reddit.com/r/dataengineering/comments/1e3exzs/data_project/,False,False,False,False
