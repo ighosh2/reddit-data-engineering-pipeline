@@ -73,7 +73,8 @@ Reason: To extract data from Reddit, including posts, comments, and user interac
 
 NumPy:
 
-Reason: To perform numerical operations and handle large multi-dimensional arrays, supporting efficient data processing and transformation.
+Reason: To perform numerical operations and handle large multi-dimensional arrays, supporting
+efficient data processing and transformation.
 
 ------------------------------------------------------------------------------------------------
 
@@ -85,26 +86,43 @@ Reason: To store raw and processed data, providing a scalable and cost-effective
 
 AWS Glue:
 
-Reason: For further data transformation and manipulation, enabling efficient ETL processes and integration with other AWS services.
+Reason: For further data transformation and manipulation, enabling efficient ETL processes and 
+integration with other AWS services.
 
 AWS Athena:
-Reason: To query data stored in S3 using SQL, providing an easy and serverless way to analyze large datasets.
+Reason: To query data stored in S3 using SQL, providing an easy and serverless way to 
+analyze large datasets.
 
 Amazon Redshift:
 
-Reason: As the data warehouse solution, offering scalable storage and high-performance querying capabilities for large datasets.
+Reason: As the data warehouse solution, offering scalable storage and high-performance querying
+capabilities for large datasets.
 
 Apache Airflow:
 
-Reason: For orchestrating the ETL workflow, ensuring tasks are executed in the correct order and at the right time.
+Reason: For orchestrating the ETL workflow, ensuring tasks are executed in the correct order
+and at the right time.
 
 Celery:
 
-Reason: For distributed task execution and handling asynchronous tasks, providing scalability and reliability to the pipeline.
+Reason: For distributed task execution and handling asynchronous tasks, providing scalability
+and reliability to the pipeline.
 
 PostgreSQL:
 
-Reason: Used as the metadata database for Apache Airflow, storing information about the DAGs and their execution states.
+Reason: Used as the metadata database for Apache Airflow, storing information about the DAGs 
+and their execution states.
 
 Docker:
-Reason: To containerize the applications and dependencies, ensuring consistency across different environments and simplifying deployment.
+Reason: To containerize the applications and dependencies, ensuring consistency across different 
+environments and simplifying deployment.
+
+------------------------------------------------------------------------------------------------
+
+**Future Scope of Work:**
+
+As a potential future scope , an integration of the a reporting tool like Tableau/Power BI will
+be done , where we can track in realtime the data statistics in a graphical way using charts. 
+This will end the end client/stakeholder to have an understandingof the system without delving
+deep into the tech side. Hence can take logical decisions based on the graphical view / mapping 
+of the system in place
